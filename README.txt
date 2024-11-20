@@ -12,8 +12,8 @@ Instructions:
   
   ## Installation
   
-  Download file
-  in cmd:
+  - Download file
+  - in cmd:
     cd <path-to-the-folder-with-script>
     pip install selenium pyfiglet
 
